@@ -1,7 +1,7 @@
 export const DATA = {
   home: {
     hero: {
-      name: "Sofiane Bahmed",
+      name: "Harsha",
       title: "Full stack developer & UI/UX Designer",
       subtitle:
         "I build fast, accessible and visually engaging web experiences.",
@@ -102,7 +102,7 @@ export const DATA = {
   },
   about: {
     profile: {
-      name: "Sofiane Bahmed",
+      name: "Harsha",
       title: "Full Stack Developer",
       image:
         "https://res.cloudinary.com/devq06psf/image/upload/v1750626923/chic_soba_bkhd8o.png",
@@ -474,7 +474,7 @@ export const DATA = {
     { name: "Contact", href: "/contact", icon: "lucide:send" },
   ],
   footer: {
-    name: "Sofiane Bahmed",
+    name: "Harsha",
     description: "Always interested in new projects and collaborations.",
     contact: {
       email: "hello@example.com",
